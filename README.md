@@ -1,3 +1,8 @@
+## 🚀 Live Demo: https://shopcart-ecommerce-six.vercel.app
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, Render, Vercel
+
+**Backend:** https://shopcart-ecommerce-2p18.onrender.com
 E-Commerce Web Application
 ==========================
 
